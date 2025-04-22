@@ -1,18 +1,71 @@
-## Hola 👋
+## `Hola mundo 👋`
 
 Estoy estudiando un bootcamp de *Desarrollo Web Full Stack* en **4Geeks Academy**. 
 
-<!--
-**alvillalta/alvillalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Sobre mí
 
-Here are some ideas to get you started:
+Soy manager de contenidos digitales con experiencia en la ejecución técnica de estrategias de comunicación y marketing. A lo largo de mi trayectoria en agencia, he desarrollado habilidades destorytelling, producción audiovisual y gestión de redes sociales para generar activos alineados conlos objetivos de cada proyecto. Además, el empleo de software especializado basado en la suite deAdobe me permite ofrecer soluciones que respondan a las necesidades de los clientes. ¡Y también estoy estudiando un bootcamp de _Desarrollo Web Full Stack_ en **4Geeks Academy!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experiencia profesional
+
+### Comunicación Pirineos | Barbastro  
+**Manager de contenidos digitales**  
+_Ene. 2023 - Actualidad_  
+- Redacción de notas de prensa con apoyo de IA (ChatGPT)  
+- Gestión y crecimiento de redes sociales mediante tendencias y análisis estadístico  
+- Desarrollo de reels con mezcla de sonido, motion graphics y subtítulos  
+- Cobertura audiovisual de eventos  
+- Administración de equipo técnico y agendas  
+
+### FOVEON Producciones | Valladolid  
+**Técnico de contenidos digitales**  
+_Oct. 2021 - Dic. 2022_  
+- Edición de vídeos corporativos y testimoniales  
+- Motion graphics con After Effects  
+- Diseño gráfico coherente con identidad de marca  
+- Renderizado 3D con Cinema 4D  
+- Revelado de imágenes con Lightroom  
+
+### Babylon Radio | Dublín  
+**Auxiliar de contenidos (Prácticas)**  
+_Oct. 2019 - Dic. 2019_  
+- Producción de contenidos digitales en entorno internacional  
+
+### Comunicación Pirineos | Barbastro  
+**Auxiliar de contenidos (Prácticas)**  
+_Jul. 2019 - Ago. 2019_  
+- Apoyo en tareas de edición, comunicación y redes  
+
+---
+
+## 🎓 Formación académica
+
+- Máster en Motion Graphics – After Effects & Cinema 4D  
+  _FICTIZIA Formación | Oct. 2020 - Mar. 2021_
+
+- Grado en Periodismo (mención en Comunicación Audiovisual)  
+  _Universidad Carlos III de Madrid | Oct. 2015 - Feb. 2020_
+
+- Grado en Media Studies (Erasmus)  
+  _Ulster University | Oct. 2018 - Ene. 2019_
+
+---
+
+## 🛠 Herramientas
+
+- **Adobe Suite:** Premiere, Photoshop, Illustrator y Lightroom  
+- **3D y Motion:** After Effects y Cinema 4D  
+- **Marketing y RRSS:** Meta Business Suite y Canva
+- **IA aplicada:** ChatGPT para redacción y productividad
+
+---
+
+## 🌍 Idiomas
+
+- Español: Nativo  
+- Inglés: B2 First Certificate
+- Catalán: Esencial  
+
+---
