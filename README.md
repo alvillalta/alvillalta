@@ -1,16 +1,12 @@
-## `Hola mundo 👋`
-
-Estoy estudiando un bootcamp de *Desarrollo Web Full Stack* en **4Geeks Academy**. 
-
-## 🎯 Sobre mí
+### `🎯 Hola mundo`
 
 Soy manager de contenidos digitales con experiencia en la ejecución técnica de estrategias de comunicación y marketing. A lo largo de mi trayectoria en agencia, he desarrollado habilidades destorytelling, producción audiovisual y gestión de redes sociales para generar activos alineados conlos objetivos de cada proyecto. Además, el empleo de software especializado basado en la suite deAdobe me permite ofrecer soluciones que respondan a las necesidades de los clientes. ¡Y también estoy estudiando un bootcamp de _Desarrollo Web Full Stack_ en **4Geeks Academy!**
 
 ---
 
-## 💼 Experiencia profesional
+### 💼 Experiencia profesional
 
-### Comunicación Pirineos | Barbastro  
+## Comunicación Pirineos | Barbastro  
 **Manager de contenidos digitales**  
 _Ene. 2023 - Actualidad_  
 - Redacción de notas de prensa con apoyo de IA (ChatGPT)  
@@ -19,7 +15,7 @@ _Ene. 2023 - Actualidad_
 - Cobertura audiovisual de eventos  
 - Administración de equipo técnico y agendas  
 
-### FOVEON Producciones | Valladolid  
+## FOVEON Producciones | Valladolid  
 **Técnico de contenidos digitales**  
 _Oct. 2021 - Dic. 2022_  
 - Edición de vídeos corporativos y testimoniales  
@@ -28,19 +24,19 @@ _Oct. 2021 - Dic. 2022_
 - Renderizado 3D con Cinema 4D  
 - Revelado de imágenes con Lightroom  
 
-### Babylon Radio | Dublín  
+## Babylon Radio | Dublín  
 **Auxiliar de contenidos (Prácticas)**  
 _Oct. 2019 - Dic. 2019_  
 - Producción de contenidos digitales en entorno internacional  
 
-### Comunicación Pirineos | Barbastro  
+## Comunicación Pirineos | Barbastro  
 **Auxiliar de contenidos (Prácticas)**  
 _Jul. 2019 - Ago. 2019_  
 - Apoyo en tareas de edición, comunicación y redes  
 
 ---
 
-## 🎓 Formación académica
+### 🎓 Formación académica
 
 - Máster en Motion Graphics – After Effects & Cinema 4D  
   _FICTIZIA Formación | Oct. 2020 - Mar. 2021_
