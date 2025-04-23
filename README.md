@@ -1,6 +1,6 @@
 ### `👋 Hola mundo`
 
-Soy manager de contenidos digitales con experiencia en la ejecución técnica de estrategias de comunicación y marketing. A lo largo de mi trayectoria en agencia, he desarrollado habilidades destorytelling, producción audiovisual y gestión de redes sociales para generar activos alineados conlos objetivos de cada proyecto. Además, el empleo de software especializado basado en la suite deAdobe me permite ofrecer soluciones que respondan a las necesidades de los clientes. ¡Y también estoy estudiando un bootcamp de _Desarrollo Web Full Stack_ en **4Geeks Academy!**
+Soy manager de contenidos digitales con experiencia en la ejecución técnica de estrategias de comunicación y marketing. A lo largo de mi trayectoria en agencia, he desarrollado habilidades de storytelling, producción audiovisual y gestión de redes sociales para generar activos alineados conlos objetivos de cada proyecto. Además, el empleo de software especializado basado en la suite deAdobe me permite ofrecer soluciones que respondan a las necesidades de los clientes. ¡Y también estoy estudiando un bootcamp de _Desarrollo Web Full Stack_ en **4Geeks Academy!**
 
 ---
 
