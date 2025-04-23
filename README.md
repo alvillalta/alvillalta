@@ -4,7 +4,7 @@ Soy manager de contenidos digitales con experiencia en la ejecución técnica de
 
 ---
 
-### 💼 Experiencia profesional
+## 💼 Experiencia profesional
 
 **Comunicación Pirineos | Barbastro (Huesca)**  
 Manager de contenidos digitales   
@@ -34,7 +34,7 @@ _Jul. 2019 - Ago. 2019_
 
 ---
 
-### 🎓 Formación académica
+## 🎓 Formación académica
 
 - Máster en Motion Graphics – After Effects & Cinema 4D  
   _FICTIZIA Formación | Oct. 2020 - Mar. 2021_
