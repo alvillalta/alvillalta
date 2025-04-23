@@ -6,8 +6,8 @@ Soy manager de contenidos digitales con experiencia en la ejecución técnica de
 
 ### 💼 Experiencia profesional
 
-**Comunicación Pirineos | Barbastro (Huesca)** 
-Manager de contenidos digitales  
+**Comunicación Pirineos | Barbastro (Huesca)**  
+Manager de contenidos digitales   
 _Ene. 2023 - Actualidad_  
 - Redacción de notas de prensa con apoyo de IA (ChatGPT)  
 - Gestión y crecimiento de redes sociales mediante tendencias y análisis estadístico  
@@ -16,7 +16,7 @@ _Ene. 2023 - Actualidad_
 - Administración de equipo técnico y agendas  
 
 **FOVEON Producciones | Valladolid**  
-Técnico de contenidos digitales  
+Técnico de contenidos digitales    
 _Oct. 2021 - Dic. 2022_  
 - Edición de vídeos corporativos y testimoniales  
 - Motion graphics con After Effects  
@@ -25,10 +25,10 @@ _Oct. 2021 - Dic. 2022_
 - Revelado de imágenes con Lightroom  
 
 **Babylon Radio | Dublín**  
-Auxiliar de contenidos (Prácticas) 
+Auxiliar de contenidos (Prácticas)  
 _Oct. 2019 - Dic. 2019_  
 
-**Comunicación Pirineos | Barbastro (Huesca)**  
+**Comunicación Pirineos | Barbastro (Huesca)**   
 Auxiliar de contenidos (Prácticas)  
 _Jul. 2019 - Ago. 2019_  
 
