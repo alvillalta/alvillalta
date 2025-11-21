@@ -1,6 +1,39 @@
-# `👋 Hola mundo`
+# `👋 Perfil profesional`
 
-Soy manager de contenidos digitales con experiencia en la ejecución técnica de estrategias de comunicación y marketing. A lo largo de mi trayectoria en agencia, he desarrollado habilidades de storytelling, producción audiovisual y gestión de redes sociales para generar activos alineados conlos objetivos de cada proyecto. Además, el empleo de software especializado basado en la suite deAdobe me permite ofrecer soluciones que respondan a las necesidades de los clientes. ¡Y también estoy estudiando un bootcamp de _Desarrollo Web Full Stack_ en **4Geeks Academy!**
+Desarrollador Full Stack especializado en la creación de aplicaciones web con React, Flask y SQLAlchemy. Experiencia tanto en front-end como en back-end, con trayectoria base en producción de contenidos digitales y gestión de redes sociales. Orientado a la escritura de código limpio y mantenible, así como a flujos de trabajo acelerados por IA.
+
+---
+
+## 🛠 Tecnologías
+
+- **Front-end:** React, Bootstrap, JavaScript (ES6+), HTML5, CSS3 
+- **Back-end:** Flask, Python, SQLAlchemy, JWT, REST APIs 
+- **Herramientas:** Git, Postman, VS Code 
+- **Integraciones:** Google Maps API, Bcrypt, smtplib
+- **Otros:** Adobe Creative Suite, ChatGPT, Meta Business Suite
+
+---
+
+## 💼 Proyectos
+
+**Star Wars Databank**  
+_Sep. 2025 - Oct. 2025_  
+Aplicación responsive que permite a los usuarios explorar el universo de las películas de Star Wars, gestionar favoritos y autenticarse de forma segura.
+- Implementación de autenticación segura con JWT y Bcrypt, y recuperación automatizada de contraseñas vía smtplib.
+- Conexión de una API REST en Flask con servicios externos (swapi.tech), optimizando el rendimiento de las consultas a base de datos.
+- Gestión de estados globales y almacenamiento local persistente para guardar sesiones y favoritos.
+- Incorporación de una interfaz completamente responsive con React y Bootstrap, garantizando una UI coherente en todos los dispositivos.
+
+Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Bcrypt, smtplib, swapi.tech API
+
+**Hello World**  
+_Oct. 2021 - Dic. 2022_  
+Aplicación web para la planificación de viajes donde los usuarios pueden descubrir destinos y crear itinerarios personalizados.
+- Desarrollo de más de 10 endpoints REST en Flask, incluyendo autenticación y gestión de datos.
+- Integración de la API de Google Maps para posibilitar la selección interactiva de ubicaciones y añadir actividades dentro de la app.
+- Construcción de una interfaz utilizando renderizado condicional en React para adaptar componentes a la UX.
+
+Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Google Maps API
 
 ---
 
@@ -9,20 +42,30 @@ Soy manager de contenidos digitales con experiencia en la ejecución técnica de
 **Comunicación Pirineos | Barbastro (Huesca)**  
 Manager de contenidos digitales   
 _Ene. 2023 - Actualidad_  
-- Redacción de notas de prensa con apoyo de IA (ChatGPT)  
-- Gestión y crecimiento de redes sociales mediante tendencias y análisis estadístico  
-- Desarrollo de reels con mezcla de sonido, motion graphics y subtítulos  
-- Cobertura audiovisual de eventos  
-- Administración de equipo técnico y agendas  
+- Documentación, realización de entrevistas y recogida de declaraciones para elaborar piezas informativas de actualidad.
+- Redacción de notas de prensa y comunicaciones con asistencia de ChatGPT.
+- Copywriting orientado al alcance, engagement e interacción en redes sociales. 
+- Detección de tendencias en TikTok, YouTube e Instagram para su readaptación dentro de una identidad de marca diferente.
+- Análisis estadístico de cuentas para la adopción de buenas prácticas de crecimiento.
+- Marketing orgánico y de pago en Meta Business Suite segmentando audiencias para aumentar las conversiones.
+- Administración de agendas, sets y equipo técnico (cámaras, micrófonos, gimbals, etc.).
+- Cobertura audiovisual y fotográfica de eventos en base a objetivos de producción: momentos clave, búsqueda de la acción, variedad de encuadres y dirección de terceros sobre el terreno.
+- Desarrollo de reels que integren mezcla de sonido, motion graphics y subtítulos destinados a retener a la audiencia.
+
+Herramientas: Photoshop, Premiere, After Effects, ChatGPT, Meta Business Suite
 
 **FOVEON Producciones | Valladolid**  
 Técnico de contenidos digitales    
 _Oct. 2021 - Dic. 2022_  
 - Edición de vídeos corporativos y testimoniales  
-- Motion graphics con After Effects  
-- Diseño gráfico coherente con la identidad de marca  
-- Renderizado 3D con Cinema 4D  
-- Revelado de imágenes con Lightroom  
+- Edición de vídeos corporativos, testimoniales y de eventos con Premiere, aplicando flujos de trabajo estructurados para obtener resultados consistentes.
+- Composición de motion graphics vía After Effects para cabeceras, logos e infografías dinámicas.
+- Renderizado de secuencias en Cinema 4D para su incorporación a otros proyectos de animación. 
+- Revelado de grandes volúmenes de imágenes en Lightroom.
+- Diseño gráfico de creatividades mediante Photoshop e Illustrator enfocado en la cohesión y coherencia entre elementos. 
+- Sistematización de plantillas y formatos de contenido para optimizar la producción.
+- Formulación de guiones para vídeo-reportajes desde la idea hasta la publicación. 
+- Selección de referencias y planificación de materiales para coordinar grabaciones. 
 
 **Babylon Radio | Dublín**  
 Auxiliar de contenidos (Prácticas)  
@@ -36,28 +79,22 @@ _Jul. 2019 - Ago. 2019_
 
 ## 🎓 Formación académica
 
-- Máster en Motion Graphics – After Effects & Cinema 4D  
+- Bootcamp en Desarrollo Full Stack  
+  _4Geeks Academy | Mar. 2025 - Sep. 2025_
+
+- Máster en Motion Graphics con After Effects y Cinema 4D  
   _FICTIZIA Formación | Oct. 2020 - Mar. 2021_
 
-- Grado en Periodismo (mención en Comunicación Audiovisual)  
+- Grado en Periodismo con mención en Comunicación Audiovisual  
   _Universidad Carlos III de Madrid | Oct. 2015 - Feb. 2020_
 
-- Grado en Media Studies (Erasmus)  
+- Programa Erasmus+ en Estudios de medios de comunicación  
   _Ulster University | Oct. 2018 - Ene. 2019_
-
----
-
-## 🛠 Herramientas
-
-- **Adobe Suite:** Premiere, Photoshop, Illustrator y Lightroom  
-- **3D y Motion:** After Effects y Cinema 4D  
-- **Marketing y RRSS:** Meta Business Suite y Canva
-- **IA aplicada:** ChatGPT para redacción y productividad
 
 ---
 
 ## 🌍 Idiomas
 
 - Español: Nativo  
-- Inglés: B2 First Certificate
-- Catalán: Esencial  
+- Inglés: Profesional (B2)
+- Catalán: Básico  
