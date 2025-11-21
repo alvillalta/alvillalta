@@ -1,4 +1,4 @@
-# `👋 Perfil profesional`
+# `💻 Perfil profesional`
 
 Desarrollador Full Stack especializado en la creación de aplicaciones web con React, Flask y SQLAlchemy. Experiencia tanto en front-end como en back-end, con trayectoria base en producción de contenidos digitales y gestión de redes sociales. Orientado a la escritura de código limpio y mantenible, así como a flujos de trabajo acelerados por IA.
 
@@ -14,7 +14,7 @@ Desarrollador Full Stack especializado en la creación de aplicaciones web con R
 
 ---
 
-## 💼 Proyectos
+## ⚙️ Proyectos
 
 **Star Wars Databank**  
 _Sep. 2025 - Oct. 2025_  
@@ -27,7 +27,7 @@ Aplicación responsive que permite a los usuarios explorar el universo de las pe
 Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Bcrypt, smtplib, swapi.tech API
 
 **Hello World**  
-_Oct. 2021 - Dic. 2022_  
+_Jun. 2025 - Ago. 2025_  
 Aplicación web para la planificación de viajes donde los usuarios pueden descubrir destinos y crear itinerarios personalizados.
 - Desarrollo de más de 10 endpoints REST en Flask, incluyendo autenticación y gestión de datos.
 - Integración de la API de Google Maps para posibilitar la selección interactiva de ubicaciones y añadir actividades dentro de la app.
