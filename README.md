@@ -1,4 +1,4 @@
-# `💻 Perfil profesional`
+## `💻 Perfil profesional`
 
 Desarrollador Full Stack especializado en la creación de aplicaciones web con React, Flask y SQLAlchemy. Experiencia tanto en front-end como en back-end, con trayectoria base en producción de contenidos digitales y gestión de redes sociales. Orientado a la escritura de código limpio y mantenible, así como a flujos de trabajo acelerados por IA.
 
