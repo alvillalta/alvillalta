@@ -16,7 +16,7 @@ Desarrollador Full Stack especializado en la creación de aplicaciones web con R
 
 ## ⚙️ Proyectos
 
-**Star Wars Databank**  
+**[Star Wars Databank](https://github.com/alvillalta/4geeks-star-wars-databank)**  
 _Sep. 2025 - Oct. 2025_  
 Aplicación responsive que permite a los usuarios explorar el universo de las películas de Star Wars, gestionar favoritos y autenticarse de forma segura.
 - Implementación de autenticación segura con JWT y Bcrypt, y recuperación automatizada de contraseñas vía smtplib.
@@ -26,7 +26,7 @@ Aplicación responsive que permite a los usuarios explorar el universo de las pe
 
 Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Bcrypt, smtplib, swapi.tech API
 
-**Hello World**  
+**[Hello World](https://github.com/alvillalta/4geeks-sp108-final-project-g2)**  
 _Jun. 2025 - Ago. 2025_  
 Aplicación web para la planificación de viajes donde los usuarios pueden descubrir destinos y crear itinerarios personalizados.
 - Desarrollo de más de 10 endpoints REST en Flask, incluyendo autenticación y gestión de datos.
