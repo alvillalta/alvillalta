@@ -65,7 +65,9 @@ _Oct. 2021 - Dic. 2022_
 - Diseño gráfico de creatividades mediante Photoshop e Illustrator enfocado en la cohesión y coherencia entre elementos. 
 - Sistematización de plantillas y formatos de contenido para optimizar la producción.
 - Formulación de guiones para vídeo-reportajes desde la idea hasta la publicación. 
-- Selección de referencias y planificación de materiales para coordinar grabaciones. 
+- Selección de referencias y planificación de materiales para coordinar grabaciones.
+
+𝗛𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀: Premiere, After Effects, Photoshop, Illustrator, Lightroom, Cinema 4D
 
 **Babylon Radio | Dublín**  
 Auxiliar de contenidos (Prácticas)  
