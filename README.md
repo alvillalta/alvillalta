@@ -69,7 +69,7 @@ _Oct. 2021 - Dic. 2022_
 
 Herramientas: Premiere, After Effects, Photoshop, Illustrator, Lightroom, Cinema 4D
 
-**Comunicación Pirineos | Barbastro (Huesca)** 
+**Comunicación Pirineos | Barbastro (Huesca)**
 Asistente de contenidos digitales 
 _Oct. 2019 - Dic. 2019_  
 
