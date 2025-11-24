@@ -67,7 +67,7 @@ _Oct. 2021 - Dic. 2022_
 - Formulación de guiones para vídeo-reportajes desde la idea hasta la publicación. 
 - Selección de referencias y planificación de materiales para coordinar grabaciones.
 
-𝗛𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀: Premiere, After Effects, Photoshop, Illustrator, Lightroom, Cinema 4D
+Herramientas: Premiere, After Effects, Photoshop, Illustrator, Lightroom, Cinema 4D
 
 **Babylon Radio | Dublín**  
 Auxiliar de contenidos (Prácticas)  
