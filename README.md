@@ -40,7 +40,7 @@ Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Google Maps API
 ## 💼 Experiencia profesional
 
 **Comunicación Pirineos | Barbastro (Huesca)**  
-Manager de contenidos digitales   
+Desarrollador de contenidos digitales   
 _Ene. 2023 - Actualidad_  
 - Documentación, realización de entrevistas y recogida de declaraciones para elaborar piezas informativas de actualidad.
 - Redacción de notas de prensa y comunicaciones con asistencia de ChatGPT.
@@ -55,7 +55,7 @@ _Ene. 2023 - Actualidad_
 Herramientas: Photoshop, Premiere, After Effects, ChatGPT, Meta Business Suite
 
 **FOVEON Producciones | Valladolid**  
-Técnico de contenidos digitales    
+Editor de vídeo & Motion grapher  
 _Oct. 2021 - Dic. 2022_  
 - Edición de vídeos corporativos y testimoniales  
 - Edición de vídeos corporativos, testimoniales y de eventos con Premiere, aplicando flujos de trabajo estructurados para obtener resultados consistentes.
@@ -69,12 +69,12 @@ _Oct. 2021 - Dic. 2022_
 
 Herramientas: Premiere, After Effects, Photoshop, Illustrator, Lightroom, Cinema 4D
 
-**Babylon Radio | Dublín**  
-Auxiliar de contenidos (Prácticas)  
+**Comunicación Pirineos | Barbastro (Huesca)** 
+Asistente de contenidos digitales 
 _Oct. 2019 - Dic. 2019_  
 
-**Comunicación Pirineos | Barbastro (Huesca)**   
-Auxiliar de contenidos (Prácticas)  
+**Babylon Radio | Dublín**
+Asistente de contenidos digitales (Prácticas)  
 _Jul. 2019 - Ago. 2019_  
 
 ---
