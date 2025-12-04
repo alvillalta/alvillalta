@@ -37,7 +37,7 @@ Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Google Maps API
 
 ---
 
-## 💼 Experiencia profesional
+## 💼 Experiencia
 
 **Comunicación Pirineos | Barbastro (Huesca)**  
 Desarrollador de contenidos digitales   
@@ -79,7 +79,7 @@ _Jul. 2019 - Ago. 2019_
 
 ---
 
-## 🎓 Formación académica
+## 🎓 Formación
 
 - Bootcamp en Desarrollo Full Stack  
   _4Geeks Academy | Mar. 2025 - Sep. 2025_
