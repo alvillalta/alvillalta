@@ -4,7 +4,7 @@ Desarrollador Full Stack especializado en la creación de aplicaciones web con R
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Herramientas
 
 - **Front-end:** React, Bootstrap, JavaScript (ES6+), HTML5, CSS3 
 - **Back-end:** Flask, Python, SQLAlchemy, JWT, REST APIs 
@@ -42,52 +42,28 @@ Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Google Maps API
 **Comunicación Pirineos | Barbastro (Huesca)**  
 Desarrollador de contenidos digitales   
 _Ene. 2023 - Actualidad_  
-- Documentación, realización de entrevistas y recogida de declaraciones para elaborar piezas informativas de actualidad.
-- Redacción de notas de prensa y comunicaciones con asistencia de ChatGPT.
-- Copywriting orientado al alcance, engagement e interacción en redes sociales. 
-- Detección de tendencias en TikTok, YouTube e Instagram para su readaptación dentro de una identidad de marca diferente.
-- Análisis estadístico de cuentas para la adopción de buenas prácticas de crecimiento.
-- Marketing orgánico y de pago en Meta Business Suite segmentando audiencias para aumentar las conversiones.
-- Administración de agendas, sets y equipo técnico (cámaras, micrófonos, gimbals, etc.).
-- Cobertura audiovisual y fotográfica de eventos en base a objetivos de producción: momentos clave, búsqueda de la acción, variedad de encuadres y dirección de terceros sobre el terreno.
-- Desarrollo de reels que integren mezcla de sonido, motion graphics y subtítulos destinados a retener a la audiencia.
+Responsable ejecutivo de la estrategia de contenidos digitales para avanzar en la transformación del grupo empresarial: +30% en la eficiencia de redacción asistida por IA, gestión de campañas publicitarias con un CTR superior al 5%, y récord de alcance en redes sociales.
 
 Herramientas: Photoshop, Premiere, After Effects, ChatGPT, Meta Business Suite
 
 **FOVEON Producciones | Valladolid**  
 Editor de vídeo & Motion grapher  
 _Oct. 2021 - Dic. 2022_  
-- Edición de vídeos corporativos y testimoniales  
-- Edición de vídeos corporativos, testimoniales y de eventos con Premiere, aplicando flujos de trabajo estructurados para obtener resultados consistentes.
-- Composición de motion graphics vía After Effects para cabeceras, logos e infografías dinámicas.
-- Renderizado de secuencias en Cinema 4D para su incorporación a otros proyectos de animación. 
-- Revelado de grandes volúmenes de imágenes en Lightroom.
-- Diseño gráfico de creatividades mediante Photoshop e Illustrator enfocado en la cohesión y coherencia entre elementos. 
-- Sistematización de plantillas y formatos de contenido para optimizar la producción.
-- Formulación de guiones para vídeo-reportajes desde la idea hasta la publicación. 
-- Selección de referencias y planificación de materiales para coordinar grabaciones.
+Especialista en posproducción y diseño de creatividades que aportasen valor añadido al crecimiento de las marcas cliente. Empleo sólido de la suite de Adobe para entregar proyectos a prueba de revisiones.
 
 Herramientas: Premiere, After Effects, Photoshop, Illustrator, Lightroom, Cinema 4D
-
-**Comunicación Pirineos | Barbastro (Huesca)**  
-Asistente de contenidos digitales   
-_Oct. 2019 - Dic. 2019_  
-
-**Babylon Radio | Dublín**  
-Asistente de contenidos digitales (Prácticas)  
-_Jul. 2019 - Ago. 2019_  
 
 ---
 
 ## 🎓 Formación
 
-- Bootcamp en Desarrollo Full Stack  
+- Desarrollo Full Stack  
   _4Geeks Academy | Mar. 2025 - Sep. 2025_
 
-- Máster en Motion Graphics con After Effects y Cinema 4D  
+- Motion Graphics con After Effects y Cinema 4D  
   _FICTIZIA Formación | Oct. 2020 - Mar. 2021_
 
-- Grado en Periodismo con mención en Comunicación Audiovisual  
+- Periodismo con mención en Comunicación Audiovisual  
   _Universidad Carlos III de Madrid | Oct. 2015 - Feb. 2020_
 
 - Programa Erasmus+ en Estudios de medios de comunicación  
