@@ -1,39 +1,38 @@
-## `💻 Perfil profesional`
+## `👨‍💻 Perfil profesional`
 
-Desarrollador Full Stack especializado en la creación de aplicaciones web con React, Flask y SQLAlchemy. Experiencia tanto en front-end como en back-end, con trayectoria base en producción de contenidos digitales y gestión de redes sociales. Orientado a la escritura de código limpio y mantenible, así como a flujos de trabajo acelerados por IA.
+Desarrollador Full Stack especializado en Python, FastAPI, JavaScript y React. Experiencia tanto en backend como en frontend, con trayectoria previa en la creación de contenidos digitales y gestión de redes sociales. Orientado a la integración de IA en proyectos reales, con fuerte capacidad de colaboración y motivación constante por aprender.
 
 ---
 
 ## 🛠 Herramientas
 
-- **Front-end:** React, Bootstrap, JavaScript (ES6+), HTML5, CSS3 
-- **Back-end:** Flask, Python, SQLAlchemy, JWT, REST APIs 
-- **Herramientas:** Git, Postman, VS Code 
-- **Integraciones:** Google Maps API, Bcrypt, smtplib
-- **Otros:** Adobe Creative Suite, ChatGPT, Meta Business Suite
+- **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Bootstrap
+- **Backend:** Python, FastAPI, Flask, SQL, JWT
+- **Control de versiones:** Git, GitHub
+- **Otros:** Claude Code, Adobe Creative Suite
 
 ---
 
 ## ⚙️ Proyectos
 
-**[Star Wars Databank](https://github.com/alvillalta/4geeks-star-wars-databank)**  
-_Sep. 2025 - Oct. 2025_  
-Aplicación responsive que permite a los usuarios explorar el universo de las películas de Star Wars, gestionar favoritos y autenticarse de forma segura.
-- Implementación de autenticación segura con JWT y Bcrypt, y recuperación automatizada de contraseñas vía smtplib.
-- Conexión de una API REST en Flask con servicios externos (swapi.tech), optimizando el rendimiento de las consultas a base de datos.
-- Gestión de estados globales y almacenamiento local persistente para guardar sesiones y favoritos.
-- Incorporación de una interfaz completamente responsive con React y Bootstrap, garantizando una UI coherente en todos los dispositivos.
+**[Biotasys](https://github.com/alvillalta/i006-biotasys-ai)** 
+_Feb. 2026 – Mar. 2026_  
+Servicio técnico independiente orientado al análisis de datos de microbiota intestinal mediante IA para apoyar la toma de decisiones clínicas.
+- Diseño de un pipeline backend basado en IA para transformar datos JSON crudos de laboratorio en interpretaciones clínicas estructuradas.
+- Desarrollo de un endpoint seguro en FastAPI que consume Gemini 2.5 Flash y valida la consistencia de los resultados contra esquemas Pydantic.
+- Orquestación del flujo de trabajo en dos módulos de IA independientes, separando la normalización de datos heterogéneos de la generación de insights.
+- Gestión de un sistema automatizado de creación de PDFs y persistencia de los informes utilizando Jinja2, xhtml2pdf y Supabase.
 
-Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Bcrypt, smtplib, swapi.tech API
+Tecnologías: FastAPI, Pydantic, Gemini 2.5 Flash, Jinja2, xhtml2pdf, Supabase, Render
 
-**[Hello World](https://github.com/alvillalta/4geeks-sp108-final-project-g2)**  
+**[Hello World](https://github.com/alvillalta/4geeks-sp108-final-project-g2)**
 _Jun. 2025 - Ago. 2025_  
 Aplicación web para la planificación de viajes donde los usuarios pueden descubrir destinos y crear itinerarios personalizados.
-- Desarrollo de más de 10 endpoints REST en Flask, incluyendo autenticación y gestión de datos.
-- Integración de la API de Google Maps para posibilitar la selección interactiva de ubicaciones y añadir actividades dentro de la app.
-- Construcción de una interfaz utilizando renderizado condicional en React para adaptar componentes a la UX.
+- Implementación de más de 10 endpoints REST con **Flask**, incluyendo autenticación segura mediante **JWT**.
+- Integración de la **API de Google Maps** para posibilitar la selección interactiva de ubicaciones y añadir actividades dentro de la app.
+- Desarrollo de una interfaz dinámica con **React**, preservando estados globales para guardar las sesiones y preferencias del usuario.
 
-Tecnologías: React, Flask, SQLAlchemy, JWT, Bootstrap, Google Maps API
+Tecnologías: Flask, SQL, JWT, Google Maps API, React, HTML, CSS, Bootstrap
 
 ---
 
@@ -44,7 +43,7 @@ Desarrollador de contenidos digitales
 _Ene. 2023 - Actualidad_  
 Responsable ejecutivo de la estrategia de contenidos digitales para avanzar en la transformación del grupo empresarial: +30% en la eficiencia de redacción asistida por IA, gestión de campañas publicitarias con un CTR superior al 5%, y récord de alcance en redes sociales.
 
-Herramientas: Photoshop, Premiere, After Effects, ChatGPT, Meta Business Suite
+Herramientas: Photoshop, Premiere, After Effects, Meta Business Suite, ChatGPT
 
 **FOVEON Producciones | Valladolid**  
 Editor de vídeo & Motion grapher  
