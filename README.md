@@ -21,14 +21,14 @@ Servicio técnico independiente orientado al análisis de datos de microbiota in
 - Diseño de un pipeline backend basado en IA para transformar datos JSON crudos de laboratorio en interpretaciones clínicas estructuradas.
 - Desarrollo de un endpoint seguro en FastAPI que consume Gemini 2.5 Flash y valida la consistencia de los resultados contra esquemas Pydantic.
 - Orquestación del flujo de trabajo en dos módulos de IA independientes, separando la normalización de datos heterogéneos de la generación de insights.
-- Gestión de un sistema automatizado de creación de PDFs y persistencia de los informes utilizando Jinja2, xhtml2pdf y Supabase.
+- Gestión de un sistema automatizado de creación de PDFs y persistencia de los informes utilizando Jinja2 y Supabase.
 
-Tecnologías: FastAPI, Pydantic, Gemini 2.5 Flash, Jinja2, xhtml2pdf, Supabase, Render
+Tecnologías: FastAPI, Pydantic, Gemini 2.5 Flash, Jinja2, Supabase, Render
 
 **[Hello World](https://github.com/alvillalta/4geeks-sp108-final-project-g2)**
 _Jun. 2025 - Ago. 2025_  
 Aplicación web para la planificación de viajes donde los usuarios pueden descubrir destinos y crear itinerarios personalizados.
-- Implementación de más de 10 endpoints REST con **Flask**, incluyendo autenticación segura mediante **JWT**.
+- Implementación de más de 10 APIs REST con **Flask**, incluyendo autenticación segura mediante **JWT**.
 - Integración de la **API de Google Maps** para posibilitar la selección interactiva de ubicaciones y añadir actividades dentro de la app.
 - Desarrollo de una interfaz dinámica con **React**, preservando estados globales para guardar las sesiones y preferencias del usuario.
 
