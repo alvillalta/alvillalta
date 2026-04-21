@@ -1,6 +1,6 @@
 ## `👨‍💻 Perfil profesional`
 
-Desarrollador Full Stack especializado en Python, FastAPI, JavaScript y React. Experiencia tanto en backend como en frontend, con trayectoria previa en la creación de contenidos digitales y gestión de redes sociales. Orientado a la integración de IA en proyectos reales, con fuerte capacidad de colaboración y motivación constante por aprender.
+Desarrollador Full Stack especializado en Python, FastAPI, JavaScript y React. Experiencia tanto en backend como en frontend, con trayectoria previa en la creación de contenidos digitales y gestión de redes sociales. Actualmente integrando modelos de IA en proyectos reales, con fuerte capacidad de colaboración y motivación constante por aprender.
 
 ---
 
