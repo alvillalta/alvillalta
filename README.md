@@ -23,7 +23,7 @@ Servicio técnico independiente orientado al análisis de datos de microbiota in
 - Orquestación del flujo de trabajo en dos módulos de IA independientes, separando la normalización de datos heterogéneos de la generación de insights.
 - Gestión de un sistema automatizado de creación de PDFs y persistencia de los informes utilizando Jinja2 y Supabase.
 
-Tecnologías: FastAPI, Pydantic, Gemini 2.5 Flash, Jinja2, Supabase, Render
+Tecnologías: FastAPI, Pydantic, Gemini 2.5 Flash, Jinja2, Supabase, Render, GitHub Copilot
 
 **[Hello World](https://github.com/alvillalta/4geeks-sp108-final-project-g2)**
 _Jun. 2025 - Ago. 2025_  
