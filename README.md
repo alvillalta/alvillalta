@@ -16,6 +16,16 @@ Desarrollador Full Stack especializado en Python, FastAPI, JavaScript y React. E
 
 ## ⚙️ Proyectos
 
+**[Press O'clock](https://github.com/alvillalta/press-oclock)**
+_May. 2026 - Jun. 2026_  
+Asistente conversacional RAG para periodistas que centraliza notas de prensa recibidas por correo electrónico permitiendo su consulta en lenguaje natural.
+- Desarrollo de una arquitectura RAG completa basada en embeddings de OpenAI, almacenamiento vectorial en pgvector y búsqueda por similitud.
+- Optimización de las respuestas del LLM ampliando el contexto recuperado mediante chunks contiguos antes de la construcción del prompt.
+- Incorporación de trazabilidad a las respuestas, vinculando cada resultado con sus fuentes originales (fragmento de texto y metadatos del correo).
+- Automatización de la ingesta de correos a través de un webhook de Make, desacoplando la captura de datos de su procesamiento interno.
+
+Tecnologías: FastAPI, Pydantic, OpenAI API, Supabase (PostgreSQL + pgvector), Make, GitHub Copilot
+
 **[Biotasys](https://github.com/alvillalta/i006-biotasys-ai)** 
 _Feb. 2026 – Mar. 2026_  
 Servicio técnico independiente orientado al análisis de datos de microbiota intestinal mediante IA para apoyar la toma de decisiones clínicas.
@@ -24,16 +34,7 @@ Servicio técnico independiente orientado al análisis de datos de microbiota in
 - Orquestación del flujo de trabajo en dos módulos de IA independientes, separando la normalización de datos heterogéneos de la generación de insights.
 - Gestión de un sistema automatizado de creación de PDFs y persistencia de los informes utilizando Jinja2 y Supabase.
 
-Tecnologías: FastAPI, Pydantic, Gemini 2.5 Flash, Jinja2, Supabase, Render, GitHub Copilot
-
-**[Hello World](https://github.com/alvillalta/4geeks-sp108-final-project-g2)**
-_Jun. 2025 - Ago. 2025_  
-Aplicación web para la planificación de viajes donde los usuarios pueden descubrir destinos y crear itinerarios personalizados.
-- Implementación de más de 10 APIs REST con **Flask**, incluyendo autenticación segura mediante **JWT**.
-- Integración de la **API de Google Maps** para posibilitar la selección interactiva de ubicaciones y añadir actividades dentro de la app.
-- Desarrollo de una interfaz dinámica con **React**, preservando estados globales para guardar las sesiones y preferencias del usuario.
-
-Tecnologías: Flask, SQL, JWT, Google Maps API, React, HTML, CSS, Bootstrap
+Tecnologías: FastAPI, Pydantic, Gemini 2.5 Flash, Jinja2, Supabase (PostgreSQL), Render, GitHub Copilot
 
 ---
 
