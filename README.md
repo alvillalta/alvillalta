@@ -45,7 +45,7 @@ Desarrollador de contenidos digitales
 _Ene. 2023 - Actualidad_  
 Responsable ejecutivo de la estrategia de contenidos digitales para avanzar en la transformación del grupo empresarial: +30% en la eficiencia de redacción asistida por IA, gestión de campañas publicitarias con un CTR superior al 5%, y récord de alcance en redes sociales.
 
-Herramientas: Photoshop, Premiere, After Effects, Meta Business Suite, ChatGPT
+Herramientas: Photoshop, Premiere, After Effects, ChatGPT, Gemini, Meta Business Suite 
 
 **FOVEON Producciones | Valladolid**  
 Editor de vídeo & Motion grapher  
